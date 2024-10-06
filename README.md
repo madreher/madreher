@@ -1,8 +1,10 @@
 ## Welcome!
 
-[![LinkedIn: matthieudreher](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matthieu-dreher)
+[![LinkedIn: matthieudreher](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-dreher)
 
-Hello! I'm Matthieu Dreher, a mainly C++/Python developer with a background in high-performance computing and currently looking for new challenges! Welcome to my personnal projects! Here you will find some personnal projects focused on molecular dynamics as well as some for fun projects. 
+Hello! I'm Matthieu Dreher, a mainly C++/Python developer with a background in high-performance computing and currently looking for new challenges! Welcome to my personnal projects! 
+
+Here you will find some personnal projects focused on molecular dynamics as well as some for fun projects. 
 All these projects were or are currently being developped with the goal to learn new technologies/frameworks/languages. If you see something interesting which could use some improvements, please do not hesitate to submit a ticket.
 
 ## Molecular Dynamics Environment and Tools
@@ -46,6 +48,7 @@ There is more to life that molecules dancing in a vaccum. Here are some for fun 
 [Miquella](https://github.com/madreher/miquella) is a playground to toy parallelisation methods like multithreading, gpu programming, etc. And what better way to test different parallelisation methods than to make shiny images???
 
 Software stack: C++, ImGUI, [BS::thread_pool](https://github.com/bshoshany/thread-pool), [FastAPI](https://fastapi.tiangolo.com/), [cpr](https://github.com/libcpr/cpr)
+
 PS: This project is currently on standby and needs documentation.
 
 
