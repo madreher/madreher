@@ -22,7 +22,7 @@ This is a massive tasks which has to be divided into several projects. You'll fi
 [Godrick](https://github.com/madreher/Godrick) is a middleware designed to couple parallel codes togethers to form a graph. Its goal is to provide communication pipeline between components and handle the flow of data via different transport methods such as MPI communicators, sockets, files, etc.
 This middleware is the backbone to connect a simulation code like Lammps to a steering engine or visualization frontend. The API to describe the application graph is written in Python while the runtime itself is written in C++.
 
-Software Stack: C++, Python, MPI, ZeroMQ, [Conduit](https://llnl-conduit.readthedocs.io/en/latest/index.html), Cmake, [Catch2](https://github.com/catchorg/Catch2)
+Software Stack: C++, Python, MPI, ZeroMQ, [Conduit](https://llnl-conduit.readthedocs.io/en/latest/index.html), Cmake, [Catch2](https://github.com/catchorg/Catch2), Pytest
 
 ### LammpsInputBuilder (LIB)
 
@@ -39,9 +39,18 @@ Software Stack: Python, [ASE](https://wiki.fysik.dtu.dk/ase/), Pylint, pytest
 
 Software Stack: C++, Javascript, HTML, CSS, Flask, SocketIO, Docker, CMake 
 
+### Todo List
+- Document Godrick ASAP
+- Do the API doc for LIB
+- Create RestAPI for LIB
+- Learn OAuth 2
+- Learn React
+- Split Radahn frontend into another project
+- Get a cat
+
 ## For Fun (and Learning) Projects
 
-There is more to life that molecules dancing in a vaccum. Here are some for fun projects!
+There is more to life than molecules dancing in a vaccum. Here are some for fun projects!
 
 ### Miquella 
 
