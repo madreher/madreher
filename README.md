@@ -15,7 +15,7 @@ My current goal is to provide an environment allowing users to:
 - Provide ways to execute a simulation on local or remote compute resources
 - Allow live visualization, steering, and analysis of the simulation
   
-This is a massive tasks which has to be divided into several projects. You'll find some of these projects below, as well as a TODO list for soonTM.
+Given the magnitude of these objectives, a lot of them are divided into sub projects. You'll find some of these projects below, as well as a TODO list for the missing parts and current goals.
 
 ### Godrick
 
